@@ -1,4 +1,6 @@
 # Grocery E-Commerce
+![Grocery App Preview](https://raw.githubusercontent.com/Anisnur22/GroceryE-Commerce/158ac037c35385b8d8faec149a0285a74c2da268/alphaimage.jpg)
+
 How to run program:
 1. To run the file, run from app.py
 2. Type "/home" to enter website page. 
