@@ -1,6 +1,4 @@
-# GroceryE-Commerce
-Assignment Part 2
-
+# Grocery E-Commerce
 How to run program:
 1. To run the file, run from app.py
 2. Type "/home" to enter website page. 
